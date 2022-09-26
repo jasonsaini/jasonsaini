@@ -6,7 +6,7 @@
 
 -->
 
-![Alt Text](https://media4.giphy.com/media/mCRJDo24UvJMA/200.gif) ![Alt Text](https://c.tenor.com/zisv-VYvy9QAAAAd/god-of-war-ragnarok.gif)
+![Alt Text](https://media4.giphy.com/media/mCRJDo24UvJMA/200.gif) ![Alt Text](https://64.media.tumblr.com/56780a70aeaea2f343b1365cf32b3c10/f1d9bb72d66bddb6-be/s540x810/b9abf197f5cdbd02e888236f427d98de2fa30e9a.gif)
 
 <br></br>
 
