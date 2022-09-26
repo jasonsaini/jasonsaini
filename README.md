@@ -5,6 +5,12 @@
 <br></br>
 
 -->
+![Alt Text](https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif)
+- 🌱 I’m currently learning ...         
+-  Unity, Android Studio / Kotlin, PHP, SQL, mySQL
+-  My top programming languages:
+-  C#, Java, Python, Javascript, Kotlin
+-  (I like to think I can pick up any programming language given some time with it :smile:)
 ⚡ Bio ⚡
 ===========
 I've had an interest in tech since I was 5, when my parents bought me my first video game system. 
@@ -24,11 +30,7 @@ Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee e
 
 <br></br>
 
-- 🌱 I’m currently learning ...         
--  Unity, Android Studio / Kotlin, PHP, SQL, mySQL
--  My top programming languages:
--  C#, Java, Python, Javascript, Kotlin
--  (I like to think I can pick up any programming language given some time with it :smile:)
+
           
 Favorite Movie:
 ================
