@@ -39,12 +39,7 @@ Now, I'm seeking to work at impactful companies that have the power to enable po
 Some of my highlights include helping my peers learn computer science fundamentals as an SI Leader at my school, contributing to enterprise-level solutions as an intern, and helping grow the ACM chapter by managing money and leading developmental workshops.
 
 Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee enthusiast!
-
-
-<br></br>
-
-
-          
+<br>          
 Favorite Movie:
 ================
 ![Alt Text](https://data.whicdn.com/images/308872100/original.gif)
