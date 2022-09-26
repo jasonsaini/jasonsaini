@@ -12,7 +12,7 @@
 Currently Working In:
 =====================
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+![Alt Text]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg")
           
 Favorite Movie:
 ================
