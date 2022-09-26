@@ -4,7 +4,7 @@
 ![Alt Text](http://31.media.tumblr.com/cb8416eed7a82e9e658295658bd950fa/tumblr_nguptgkG3l1rjatglo1_500.gif)
 <br></br>
 -->
-![Alt Text](https://cdn.dribbble.com/users/2520294/screenshots/7209485/media/cf226d98a06282e9cabf5c2f8f6d547f.gif)
+![Alt Text](https://www.cs.cmu.edu/~cangiuli/img/reginald.gif)
 ![Alt Text](https://thumbs.gfycat.com/FastDecentEmperorpenguin-size_restricted.gif)
 <br></br>
 
