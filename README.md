@@ -4,6 +4,9 @@
 
 <br>
 
+
+
+
 🌱 I’m currently learning ...  
 ===============================
 -  Unity
@@ -11,6 +14,9 @@
 -  Kotlin
 -  PHP
 -  SQL, mySQL
+
+
+
 
 ⚡My top programming languages⚡
 ==================================
@@ -20,6 +26,9 @@
 -  Javascript
 -  Kotlin
 -  (I like to think I can pick up any programming language given some time with it :smile:)
+
+
+
 
 :rocket: Bio :rocket:
 ===========
