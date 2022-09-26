@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=600&center=true&vCenter=true&width=435&lines=Welcome%2C+my+name+is+Jason+Saini!;3rd+Year+CS+Student+at+UCF;Treasurer+of+UCF's+ACM+Chapter;I+love+programming+%26+terrible+jokes;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;My+girlfriend+is+the+root+of+-100.;A+solid+10+but+also+imaginary.)](https://git.io/typing-svg)
 <br></br>
 ![Alt Text](http://31.media.tumblr.com/cb8416eed7a82e9e658295658bd950fa/tumblr_nguptgkG3l1rjatglo1_500.gif)
+![Alt Text](https://cdn.dribbble.com/users/2520294/screenshots/7209485/media/cf226d98a06282e9cabf5c2f8f6d547f.gif)
 <br></br>
 
 ⚡ Bio ⚡
