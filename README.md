@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&vCenter=true&width=435&lines=Welcome%2C+my+name+is+Jason+Saini!;3rd+Year+CS+Student+at+UCF;Treasurer+of+UCF's+ACM+Chapter;I+love+programming+%26+terrible+jokes;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;My+girlfriend+is+the+root+of+-100+.;A+solid+10+but+also+imaginary.)](https://git.io/typing-svg)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonsaini)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 
 - 🌱 I’m currently learning ...
