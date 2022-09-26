@@ -6,7 +6,7 @@
 
 -->
 
-![Alt Text](https://media4.giphy.com/media/mCRJDo24UvJMA/200.gif) ![Alt Text](https://media4.giphy.com/media/HFbtg3SmlDx8f9g4dJ/giphy.gif)
+![Alt Text](https://media4.giphy.com/media/HFbtg3SmlDx8f9g4dJ/giphy.gif)
 
 <br></br>
 
