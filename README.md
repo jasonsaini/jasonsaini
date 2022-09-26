@@ -6,9 +6,21 @@
 
 -->
 
-![Alt Text](https://media4.giphy.com/media/HFbtg3SmlDx8f9g4dJ/giphy.gif)
+
 
 <br></br>
+Currently Working In:
+=====================
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+          
+Favorite Movie:
+================
+![Alt Text](https://data.whicdn.com/images/308872100/original.gif)
+
+Favorite Game:
+================
+![Alt Text](https://media4.giphy.com/media/HFbtg3SmlDx8f9g4dJ/giphy.gif)
 
 ⚡ Bio ⚡
 ===========
