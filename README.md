@@ -6,7 +6,7 @@
 
 -->
 
-![Alt Text](https://media4.giphy.com/media/mCRJDo24UvJMA/200.gif) |![Alt Text](https://www.cs.cmu.edu/~cangiuli/img/reginald.gif)
+![Alt Text](https://media4.giphy.com/media/mCRJDo24UvJMA/200.gif) ![Alt Text](https://www.cs.cmu.edu/~cangiuli/img/reginald.gif)
 
 <br></br>
 
