@@ -3,9 +3,12 @@
 <br></br>
 ![Alt Text](http://31.media.tumblr.com/cb8416eed7a82e9e658295658bd950fa/tumblr_nguptgkG3l1rjatglo1_500.gif)
 <br></br>
-![Alt Text](https://www.cs.cmu.edu/~cangiuli/img/reginald.gif)
+
 -->
-![Alt Text](https://media4.giphy.com/media/mCRJDo24UvJMA/200.gif)
+
+| ------------- | ------------- |
+|![Alt Text](https://media4.giphy.com/media/mCRJDo24UvJMA/200.gif) |![Alt Text](https://www.cs.cmu.edu/~cangiuli/img/reginald.gif) |
+
 <br></br>
 
 ⚡ Bio ⚡
