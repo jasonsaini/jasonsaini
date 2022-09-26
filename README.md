@@ -11,6 +11,8 @@
 <br></br>
 Currently Working In:
 =====================
+![androidstudio-original-wordmark](https://user-images.githubusercontent.com/69808698/192183734-159dc233-4260-423e-8ba0-f403f107641b.svg)![kotlin-original-wordmark](https://user-images.githubusercontent.com/69808698/192183792-d7c642ff-ee63-4c12-ab13-506478d75898.svg)
+
 
 ![Alt Text]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg")
           
