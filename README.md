@@ -1,13 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&center=true&vCenter=true&width=435&lines=Welcome%2C+my+name+is+Jason+Saini!;3rd+Year+CS+Student+at+UCF;Treasurer+of+UCF's+ACM+Chapter;I+love+programming+%26+terrible+jokes;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;My+girlfriend+is+the+root+of+-100.;A+solid+10+but+also+imaginary.)](https://git.io/typing-svg)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonsaini)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 I’m currently working on ...
-- 
-- 🌱 I’m currently learning ...
-- 
-- 📫 How to reach me: ...
 
-- ⚡ Bio ⚡
+#⚡ Bio ⚡
 An important part of my college experience has been connecting and engaging with my peers.
 
 To inspire and celebrate diversity on my campus, I am a proud and active member of Multicultural Academic Support Services (MASS) at the University of Central Florida. 
@@ -29,3 +24,10 @@ Now, I'm seeking to work at impactful companies that have the power to enable po
 Some of my highlights include helping my peers learn computer science fundamentals as an SI Leader at my school, contributing to enterprise-level solutions as an intern, and helping grow the ACM chapter by managing money and leading developmental workshops.
 
 Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee enthusiast!
+
+<!--- - 🔭 I’m currently working on ...
+- 
+- 🌱 I’m currently learning ...
+- 
+- 📫 How to reach me: ...
+>
