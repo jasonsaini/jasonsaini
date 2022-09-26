@@ -2,7 +2,8 @@
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonsaini)](https://github.com/anuraghazra/github-readme-stats)
 
-#⚡ Bio ⚡
+⚡ Bio ⚡
+===========
 An important part of my college experience has been connecting and engaging with my peers.
 
 To inspire and celebrate diversity on my campus, I am a proud and active member of Multicultural Academic Support Services (MASS) at the University of Central Florida. 
