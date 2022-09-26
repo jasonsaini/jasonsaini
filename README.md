@@ -3,14 +3,6 @@
 
 ⚡ Bio ⚡
 ===========
-An important part of my college experience has been connecting and engaging with my peers.
-
-To inspire and celebrate diversity on my campus, I am a proud and active member of Multicultural Academic Support Services (MASS) at the University of Central Florida. 
-
-I'm also very excited to join UCF'S Association of Computing Machinery chapter to help students learn practical technical skills and become career-ready upon graduating.
-I've picked up a lot in my search for experiential learning opportunities, and I can't wait to share my experiences. 
-I wish I had the same knowledge to prepare for internships when I started, so teaching others how to become career-ready is a dream come true :). 
-
 I've had an interest in tech since I was 5, when my parents bought me my first video game system. 
 Since then, I've always been amazed by the capability and development of modern technology. 
 
