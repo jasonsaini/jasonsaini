@@ -1,12 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2700&pause=600&width=500&lines=I'm+Jason.+Welcome+to+my+GitHub!;3rd+Year+CS+Student+%40+UCF;Treasurer+of+UCF's+ACM+Chapter;I+love+programming+%26+bad+jokes!;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;My+girlfriend+is+the+square+root+of+-100.+;A+perfect+10+but+also+imaginary.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Welcome+to+my+GitHub%2C+my+name+is+Jason+Saini!;3rd+Year+CS+Student+%40+University+of+Central+Florida;Treasurer+of+UCF's+ACM+Chapter;I+love+programming%2C+coffee%2C+and+terrible+jokes!;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;My+girlfriend+is+the+square+root+of+-100.+;A+perfect+10+but+also+imaginary.)](https://git.io/typing-svg)
-<!---
-<br></br>
-![Alt Text](http://31.media.tumblr.com/cb8416eed7a82e9e658295658bd950fa/tumblr_nguptgkG3l1rjatglo1_500.gif)
-<br></br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=600&center=true&vCenter=true&width=435&lines=Welcome%2C+my+name+is+Jason+Saini!;3rd+Year+CS+Student+at+UCF;Treasurer+of+UCF's+ACM+Chapter;I+love+programming+%26+terrible+jokes;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;My+girlfriend+is+the+root+of+-100.;A+solid+10+but+also+imaginary.)](https://git.io/typing-svg)
--->
 ![Alt Text](https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif)
+
 <br>
 🌱 I’m currently learning ...  
 ===============================
