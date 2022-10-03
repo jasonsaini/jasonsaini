@@ -28,7 +28,7 @@
  <br>
  (I like to think I can pick up any programming language given some time with it :smile:)
 
-Tech I've used for work & academic projects
+💻 Tech I've used for work & academic projects 💻
 ============================================
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -75,11 +75,11 @@ Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee e
 
 <br>          
 
-Favorite Movie:
+🎥 Favorite Movie 🎥:
 ================
 ![Alt Text](https://data.whicdn.com/images/308872100/original.gif)
 
-Favorite Game:
+🎮 Favorite Game 🎮:
 ================
 ![Alt Text](https://media4.giphy.com/media/HFbtg3SmlDx8f9g4dJ/giphy.gif)
 
