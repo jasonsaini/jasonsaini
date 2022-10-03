@@ -83,5 +83,7 @@ Favorite Movie:
 Favorite Game:
 ================
 ![Alt Text](https://media4.giphy.com/media/HFbtg3SmlDx8f9g4dJ/giphy.gif)
+
 <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula)
