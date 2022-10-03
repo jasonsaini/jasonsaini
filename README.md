@@ -3,7 +3,7 @@
 ![Alt Text](https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif)
 
 
-🌱 I’m currently learning ...  
+🌱 I’m currently learning ... 🌱  
 ===============================
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
