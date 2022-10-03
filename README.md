@@ -5,7 +5,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonsaini)](https://github.com/jasonsaini/github-readme-stats)
 
 🌱 I’m currently learning ...  
 ===============================
