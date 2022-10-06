@@ -2,6 +2,7 @@
 
 ![Alt Text](https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif)
 
+[Test out your typing skills with my mini-app!](https://jasonsaini.github.io/Typing-Test/src/index.html)
 
 🌱 I’m currently learning ... 🌱  
 ===============================
