@@ -82,10 +82,9 @@ Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee e
 ================
 ![Alt Text](https://media4.giphy.com/media/HFbtg3SmlDx8f9g4dJ/giphy.gif)
 
-<br>
+================
 
 
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonsaini&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula)
