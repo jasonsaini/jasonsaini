@@ -4,6 +4,9 @@
 
 [Test out your typing skills with my mini-app!](https://jasonsaini.github.io/Typing-Test/src/index.html)
 
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://www.dropbox.com/home?preview=Jason+Saini+-+Resume+October+2022.pdf)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-saini/)
+[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j.saini18@knights.ucf.edu)
 🌱 I’m currently learning ... 🌱  
 ===============================
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -81,10 +84,6 @@ Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee e
 🎮 Favorite Game 🎮:
 ================
 ![Alt Text](https://media4.giphy.com/media/HFbtg3SmlDx8f9g4dJ/giphy.gif)
-
-================
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasonsaini&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
+                                    
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula)
