@@ -1,8 +1,7 @@
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2700&pause=600&width=500&lines=I'm+Jason.+Welcome+to+my+GitHub!;3rd+Year+CS+Student+%40+UCF;Software+Intern+@+Axient;Treasurer+of+UCF's+ACM+Chapter;I+love+programming+%26+bad+jokes!;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;Kinda+smells+like+updog+in+here.)](https://git.io/typing-svg)
 
 ![Alt Text](https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif) 
-                                    
-
 
 [Test out your typing skills with my mini-app!](https://jasonsaini.github.io/Typing-Test/src/index.html)
 
@@ -78,9 +77,11 @@ Some of my highlights include helping my peers learn computer science fundamenta
 
 Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee enthusiast!
 
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=novatorem&show_offline=false&bar_color=0061e0&bar_color_cover=false)
+
 🎮 Favorite (Upcoming) Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
 ![](https://media1.giphy.com/media/G5lFWxoTzfSzZPxo6Y/giphy-downsized-large.gif) |  ![](https://64.media.tumblr.com/c9e77da31e85e1e707b28612cf1b3ce4/tumblr_inline_otk7nzxZlh1qe1dsy_500.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula) ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=novatorem&show_offline=false&bar_color=0061e0&bar_color_cover=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula) 
                          
