@@ -10,8 +10,6 @@
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j.saini18@knights.ucf.edu)
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api?spin=true/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
-
 🌱 I’m currently learning ... 🌱  
 ===============================
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)]()
