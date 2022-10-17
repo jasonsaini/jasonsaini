@@ -10,7 +10,6 @@
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j.saini18@knights.ucf.edu)
 <br>
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=novatorem&show_offline=false&bar_color=0061e0&bar_color_cover=false)
 
 🌱 I’m currently learning ... 🌱  
 ===============================
@@ -80,7 +79,7 @@ Some of my highlights include helping my peers learn computer science fundamenta
 
 Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee enthusiast!
 
-
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=novatorem&show_offline=false&bar_color=0061e0&bar_color_cover=false)
                                     
 🎮 Favorite (Upcoming) Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
