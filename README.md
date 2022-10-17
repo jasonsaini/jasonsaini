@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-saini/)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j.saini18@knights.ucf.edu)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula)            
+   
 
 🌱 I’m currently learning ... 🌱  
 ===============================
@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  <br>
  (I like to think I can pick up any programming language given some time with it :smile:)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula)         
 💻 Tech I've used for work & academic projects 💻
 ============================================
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
