@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2700&pause=600&width=500&lines=I'm+Jason.+Welcome+to+my+GitHub!;3rd+Year+CS+Student+%40+UCF;Software+Intern+@+Axient;Treasurer+of+UCF's+ACM+Chapter;I+love+programming+%26+bad+jokes!;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;Kinda+smells+like+updog+in+here.)](https://git.io/typing-svg)
 
-![Alt Text](https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif) ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=novatorem&show_offline=false&bar_color=0061e0&bar_color_cover=false)
+![Alt Text](https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif) 
                                     
 
 
@@ -11,7 +11,8 @@
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j.saini18@knights.ucf.edu)
 <br>
 
-
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=novatorem&show_offline=false&bar_color=0061e0&bar_color_cover=false)
+                                  
 🌱 I’m currently learning ... 🌱  
 ===============================
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)]()
