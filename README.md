@@ -4,10 +4,13 @@
 
 [Test out your typing skills with my mini-app!](https://jasonsaini.github.io/Typing-Test/src/index.html)
 
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://www.dropbox.com/s/rr42fv9j9cisnih/Jason%20Saini%20-%20Resume%20October%202022.pdf?dl=0)
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)]
+(https://www.dropbox.com/s/rr42fv9j9cisnih/Jason%20Saini%20-%20Resume%20October%202022.pdf?dl=0)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-saini/)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j.saini18@knights.ucf.edu)
 <br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api?spin=true/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
 🌱 I’m currently learning ... 🌱  
 ===============================
