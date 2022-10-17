@@ -84,6 +84,6 @@ Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee e
 ![](https://media1.giphy.com/media/G5lFWxoTzfSzZPxo6Y/giphy-downsized-large.gif) |  ![](https://64.media.tumblr.com/c9e77da31e85e1e707b28612cf1b3ce4/tumblr_inline_otk7nzxZlh1qe1dsy_500.gif)
 
                          
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)     
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=default&show_offline=false)     
 
 
