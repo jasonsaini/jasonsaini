@@ -85,7 +85,7 @@ Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee e
 
 🎮 Favorite Game 🎮:
 ================
-![Alt Text](https://media4.giphy.com/media/HFbtg3SmlDx8f9g4dJ/giphy.gif|height=60)
+![](https://media4.giphy.com/media/HFbtg3SmlDx8f9g4dJ/giphy.gif =250x250)
                                     
 
 
