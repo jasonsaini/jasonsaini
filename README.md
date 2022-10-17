@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2700&pause=600&width=500&lines=I'm+Jason.+Welcome+to+my+GitHub!;3rd+Year+CS+Student+%40+UCF;Treasurer+of+UCF's+ACM+Chapter;I+love+programming+%26+bad+jokes!;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;Kinda+smells+like+updog+in+here.)](https://git.io/typing-svg)
 
-![Alt Text](https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula)            
+![Alt Text](https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif) 
 
 [Test out your typing skills with my mini-app!](https://jasonsaini.github.io/Typing-Test/src/index.html)
 
@@ -8,6 +8,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-saini/)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j.saini18@knights.ucf.edu)
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula)            
 
 🌱 I’m currently learning ... 🌱  
 ===============================
@@ -82,6 +83,6 @@ Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee e
 ![](https://media1.giphy.com/media/G5lFWxoTzfSzZPxo6Y/giphy-downsized-large.gif) |  ![](https://64.media.tumblr.com/c9e77da31e85e1e707b28612cf1b3ce4/tumblr_inline_otk7nzxZlh1qe1dsy_500.gif)
 
                          
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)     
 
 
