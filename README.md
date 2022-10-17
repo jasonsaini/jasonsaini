@@ -85,7 +85,7 @@ Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee e
 
 
 <div align = center>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile) 
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=default&show_offline=false)
 </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula)  
 
