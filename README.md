@@ -9,7 +9,8 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-saini/)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j.saini18@knights.ucf.edu)
 <br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=novatorem&show_offline=false&bar_color=0061e0&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&redirect=true)
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=novatorem&show_offline=false&bar_color=0061e0&bar_color_cover=false)
 
 🌱 I’m currently learning ... 🌱  
 ===============================
