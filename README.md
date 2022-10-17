@@ -86,4 +86,4 @@ Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee e
                          
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=default&show_offline=false)     
 
-
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)(https://open.spotify.com/user/a29yisdziw39oqmni223yjvgc)]
