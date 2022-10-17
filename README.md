@@ -77,11 +77,11 @@ Some of my highlights include helping my peers learn computer science fundamenta
 
 Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee enthusiast!
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=novatorem&show_offline=false&bar_color=0061e0&bar_color_cover=false)
+
 
 🎮 Favorite (Upcoming) Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
 ![](https://media1.giphy.com/media/G5lFWxoTzfSzZPxo6Y/giphy-downsized-large.gif) |  ![](https://64.media.tumblr.com/c9e77da31e85e1e707b28612cf1b3ce4/tumblr_inline_otk7nzxZlh1qe1dsy_500.gif)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&show_icons=true&theme=dracula) ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=novatorem&show_offline=false&bar_color=0061e0&bar_color_cover=false)
                          
