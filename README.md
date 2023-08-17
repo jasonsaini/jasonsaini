@@ -87,7 +87,7 @@ Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee e
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![](https://media1.giphy.com/media/G5lFWxoTzfSzZPxo6Y/giphy-downsized-large.gif) |  ![](https://64.media.tumblr.com/c9e77da31e85e1e707b28612cf1b3ce4/tumblr_inline_otk7nzxZlh1qe1dsy_500.gif)
+![](https://media1.giphy.com/media/G5lFWxoTzfSzZPxo6Y/giphy-downsized-large.gif) |  ![](https://64.media.tumblr.com/55c78819fa9a9214320fb357331a00ce/144ace4efefce281-db/s540x810/bfbc510b3109cd2f5269e5661766965a4c3a46d9.gif)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/2MQwtW0Ldbs8g7ZoXLoPjl)
