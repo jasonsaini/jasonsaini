@@ -79,10 +79,9 @@ I've recently added a finance minor to my degree to help develop my intellectual
 
 Now, I'm seeking to work at impactful companies that have the power to enable positive change through tech. I've already made a few humble impacts in the tech space. 
 
-Some of my highlights include helping my peers learn computer science fundamentals as an SI Leader at my school, contributing to enterprise-level solutions as an intern, and helping grow the ACM chapter by managing money and leading developmental workshops.
+Some of my highlights include helping my peers learn computer science fundamentals as an SI Leader at my school, contributing to enterprise-level solutions as an intern, and helping grow the ACM chapter as Vice President.
 
-Aside from tech, I'm an avid Marvel fan, seasoned gamer, dog lover, and coffee enthusiast! I am also VERY excited for God of War: Ragnarok!
-
+Aside from tech, I'm an avid Spider-Man fan, PS5/PC Gamer, and coffee enthusiast. 
 
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
