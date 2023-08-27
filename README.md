@@ -90,3 +90,4 @@ Aside from tech, I'm an avid Spider-Man fan, PS5/PC Gamer, & coffee enthusiast:c
 :-------------------------:|:-------------------------:
 ![](https://media.tenor.com/pkkLaWsqpy4AAAAd/marvel-spider-man-2-marvel%27s-spider-man-2.gif)| ![](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/logo-animated010623010832.gif)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
