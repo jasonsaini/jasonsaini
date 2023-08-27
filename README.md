@@ -12,6 +12,7 @@
                                   
 🌱 I’m currently learning ... 🌱  
 ===============================
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 Bioinformatics Algorithms
 Cyber Defense Analysis
 Advanced Statistical Methods
