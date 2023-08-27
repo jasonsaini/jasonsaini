@@ -83,7 +83,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Aside from tech, I'm an avid Spider-Man fan, PS5/PC Gamer, and coffee enthusiast. 
+Aside from tech, I'm an avid Spider-Man fan, PS5/PC Gamer, & coffee enthusiast :coffee:
+
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
