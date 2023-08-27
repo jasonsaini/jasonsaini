@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2700&pause=600&width=500&lines=I'm+Jason.+Welcome+to+my+GitHub!;3rd+Year+CS+Student+%40+UCF;Strategic+Student+Program+@+Siemens+DISW;Vice+President+of+UCF's+ACM+Chapter;I+love+programming+%26+bad+jokes!;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;Kinda+smells+like+updog+in+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2700&pause=600&width=500&lines=I'm+Jason.+Welcome+to+my+GitHub!;3rd+Year+CS+Student+%40+UCF;Strategic+Student+Program+@+Siemens+DISW;Vice+President+of+UCF's+ACM+Chapter;I+love+programming+%26+bad+jokes!;Why+do+Java+programmers+need+glasses%3F;Because+they+can't+C%23.;Kinda+smells+like+updog+in+here.)](https://git.io/typing-svg) | ![](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 ![Alt Text](https://c.tenor.com/-p-p8MvwM3AAAAAM/dog-funny.gif) 
 
@@ -10,7 +10,7 @@
 <br>
 
                                   
-🌱 I’m currently learning ... 🌱     | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+🌱 I’m currently learning ... 🌱    
 ===============================
 🧬 Bioinformatics Algorithms
  
