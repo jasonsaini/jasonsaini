@@ -90,4 +90,4 @@ Aside from tech, I'm an avid Spider-Man fan, PS5/PC Gamer, & coffee enthusiast:c
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![](https://media.tenor.com/pkkLaWsqpy4AAAAd/marvel-spider-man-2-marvel%27s-spider-man-2.gif) | ![](https://64.media.tumblr.com/9c599a106157aec0e099e842b997ea2f/0dcfef086ebb16c8-84/s500x750/263acb428c5ea91ce8ea71e0b9c3d78926c02d18.gif)
+![](https://media.tenor.com/pkkLaWsqpy4AAAAd/marvel-spider-man-2-marvel%27s-spider-man-2.gif) | ![](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/logo-animated010623010832.gif)
