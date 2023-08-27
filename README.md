@@ -12,7 +12,8 @@
                                   
 🌱 I’m currently learning ... 🌱  
 ===============================
-Bioinformatics Algorithms
+
+ioinformatics Algorithms
 Cyber Defense Analysis
 Advanced Statistical Methods
 Accounting Principles
