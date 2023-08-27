@@ -12,11 +12,14 @@
                                   
 🌱 I’m currently learning ... 🌱  
 ===============================
-
  Bioinformatics Algorithms
+ 
  Cyber Defense Analysis
+ 
  Advanced Statistical Methods
+ 
  Accounting Principles
+ 
  Computer Networking Applications
 
 ⚡My top programming languages, frameworks, technologies⚡
