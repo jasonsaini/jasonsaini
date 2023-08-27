@@ -13,11 +13,11 @@
 🌱 I’m currently learning ... 🌱  
 ===============================
 
-ioinformatics Algorithms
-Cyber Defense Analysis
-Advanced Statistical Methods
-Accounting Principles
-Computer Networking Applications
+ Bioinformatics Algorithms
+ Cyber Defense Analysis
+ Advanced Statistical Methods
+ Accounting Principles
+ Computer Networking Applications
 
 ⚡My top programming languages, frameworks, technologies⚡
 ==================================
