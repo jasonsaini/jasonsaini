@@ -88,5 +88,6 @@ Aside from tech, I'm an avid Spider-Man fan, PS5/PC Gamer, and coffee enthusiast
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
 ![]([https://www.raffledup.com/wp-content/uploads/2023/06/Copy-of-WIN-100-Tickets-into.-.gif](https://media.tenor.com/pkkLaWsqpy4AAAAd/marvel-spider-man-2-marvel%27s-spider-man-2.gif)) | ![](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/logo-animated010623010832.gif)
-![](https://media.tenor.com/pkkLaWsqpy4AAAAd/marvel-spider-man-2-marvel%27s-spider-man-2.gif)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/2MQwtW0Ldbs8g7ZoXLoPjl)
+![](https://media.tenor.com/pkkLaWsqpy4AAAAd/marvel-spider-man-2-marvel%27s-spider-man-2.gif)
