@@ -14,13 +14,13 @@
 ===============================
 🧬 Bioinformatics Algorithms
  
- Cyber Defense Analysis
+🛡️ Cyber Defense Analysis
  
- Advanced Statistical Methods
+📈 Advanced Statistical Methods
  
- Accounting Principles
+💰 Accounting Principles
  
- Computer Networking Applications
+🌐 Computer Networking Applications
 
 ⚡My top programming languages, frameworks, technologies⚡
 ==================================
