@@ -5,7 +5,7 @@
 
 [Test out your typing skills with my mini-app!](https://jasonsaini.github.io/Typing-Test/src/index.html)
 
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://www.dropbox.com/scl/fi/38956zkao28zcvsvx54kb/Jason-Saini-Resume-August-2023.pdf?rlkey=0um2qg9sx7e3v65c9c0l38kf5&dl=0))
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://www.dropbox.com/scl/fi/38956zkao28zcvsvx54kb/Jason-Saini-Resume-August-2023.pdf?rlkey=0um2qg9sx7e3v65c9c0l38kf5&dl=0)]
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-saini/)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ja043473@ucf.edu)
 <br>
