@@ -13,7 +13,7 @@
                                   
 🌱 I’m currently learning ... 🌱    
 ===============================
-🧬 Bioinformatics Algorithms
+🧬 [Bioinformatics Algorithms](https://github.com/jasonsaini/Bioinformatics_Algorithms)
  
 🛡️ Cyber Defense Analysis
  
