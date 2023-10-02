@@ -10,7 +10,10 @@
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ja043473@ucf.edu)
 <br>
 
-                                  
+![jasonsaini's Stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+<br><br/>
+
+                     
 🌱 I’m currently learning ... 🌱    
 ===============================
 🧬 [Bioinformatics Algorithms](https://github.com/jasonsaini/Bioinformatics_Algorithms)
