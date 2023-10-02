@@ -38,8 +38,6 @@
 <br/>
 (I can pick up any programming language given some time with it :smile:)
 
-![Jason's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonsaini&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
 💻 Tech I've used for work & academic projects 💻
 ============================================
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
