@@ -83,7 +83,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 Aside from tech, I'm an avid Spider-Man fan, PS5/PC Gamer, & coffee enthusiast:coffee:
-Here's what I'm listening to on Spotify these days:
+<br></br>Here's what I'm listening to on Spotify these days:<br></br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/1WpIXieFqJVgQyyuKFrUhN)
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
