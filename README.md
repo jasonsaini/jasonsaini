@@ -4,7 +4,7 @@
 
 
 [Test out your typing skills with my mini-app!](https://jasonsaini.github.io/Typing-Test/src/index.html)
-[![]("https://img.shields.io/badge/WEBSITE-2ea44f?style=for-the-badge&logo=react")(https://jason-saini.com)
+[![](https://img.shields.io/badge/WEBSITE-2ea44f?style=for-the-badge&logo=react)](https://jason-saini.com)
 [![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://jason-saini.com/resume.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-saini/)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jason.saini@ucf.edu)
