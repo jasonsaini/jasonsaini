@@ -14,13 +14,13 @@
                      
 🌱 I’m currently learning ... 🌱    
 ===============================
-🧬 [Bioinformatics Algorithms](https://github.com/jasonsaini/Bioinformatics_Algorithms)
+🛠️ Applied Software Engineering Practicum
  
-🛡️ Cyber Defense Analysis
+🔀 Parallel & Distributed Computing
  
-📈 Advanced Statistical Methods
+🧩 Algorithmic Problem Solving & Team Dynamics
 
-🌐 Computer Networking Applications
+🧮 Calculus III
 
 ⚡My top programming languages, frameworks, technologies⚡
 ==================================
