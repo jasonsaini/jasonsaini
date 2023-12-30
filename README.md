@@ -83,7 +83,7 @@
 ============================================
 💪 Weight Lifting
 
-🎮 PS5/PC Gamer
+🎮 PS5/PC Gaming
 
 ☕ Coffee Enthusiast
 
