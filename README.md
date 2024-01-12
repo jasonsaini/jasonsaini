@@ -14,11 +14,11 @@
                      
 🌱 Currently learning 🌱    
 ===============================
+🧠 Artifical Intelligence
+
 🛠️ Applied Software Engineering Practicum
  
 🔀 Parallel & Distributed Computing
- 
-🧩 Algorithmic Problem Solving & Team Dynamics
 
 🧮 Calculus III
 
