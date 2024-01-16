@@ -95,7 +95,5 @@
 :-------------------------:|:-------------------------:
 ![](https://media.tenor.com/pkkLaWsqpy4AAAAd/marvel-spider-man-2-marvel%27s-spider-man-2.gif) | ![](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/logo-animated010623010832.gif)
 
-### My GitHub Stats
-![davidliberal0's Stats](https://github-readme-stats.vercel.app/api?username=jasonsaini&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
-<br><br/>
+
 ![davidliberal0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonsaini&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
