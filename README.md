@@ -14,7 +14,7 @@
                      
 🌱 Currently learning 🌱    
 ===============================
-🧠 Artifical Intelligence
+🧠 [Artifical Intelligence](https://github.com/jasonsaini/Artificial-Intelligence)
 
 🛠️ Applied Software Engineering Practicum
  
