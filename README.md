@@ -86,10 +86,6 @@
 
 ☕ Coffee Enthusiast
 
-🎧 Coding Beats 🎧
-============================================
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a29yisdziw39oqmni223yjvgc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/1WpIXieFqJVgQyyuKFrUhN)
-
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
 ![](https://s7.ezgif.com/tmp/ezgif-7-239841a95b.gif)| ![](https://media1.tenor.com/m/jysJSTSew24AAAAC/spiderverse-across-the-spiderverse.gif)
