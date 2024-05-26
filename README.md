@@ -92,4 +92,4 @@
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![](https://media1.tenor.com/m/puBuRwfkdrsAAAAd/hades2-melinoe.gif)| ![](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/logo-animated010623010832.gif)
+![](https://media1.tenor.com/m/puBuRwfkdrsAAAAd/hades2-melinoe.gif)| ![](https://media1.tenor.com/m/jysJSTSew24AAAAC/spiderverse-across-the-spiderverse.gif)
