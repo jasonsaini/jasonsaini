@@ -92,4 +92,4 @@
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![](https://64.media.tumblr.com/d8eef49cdc3c4c6c7b88010ffa4015cd/7418a6d79c6ceffc-52/s640x960/a031622bc057fc2d4eb9b015e9e392c2f3502430.gifv)| ![](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/logo-animated010623010832.gif)
+![](https://media1.tenor.com/m/puBuRwfkdrsAAAAd/hades2-melinoe.gif)| ![](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/logo-animated010623010832.gif)
