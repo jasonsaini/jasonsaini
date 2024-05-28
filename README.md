@@ -88,4 +88,4 @@
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![](https://imgur.com/a/ak5pwLQ)| ![](https://media1.tenor.com/m/jysJSTSew24AAAAC/spiderverse-across-the-spiderverse.gif)
+![](https://i.imgur.com/UtYJrvk.gif)| ![](https://media1.tenor.com/m/jysJSTSew24AAAAC/spiderverse-across-the-spiderverse.gif)
