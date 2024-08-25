@@ -14,13 +14,9 @@
                      
 🌱 Currently learning 🌱    
 ===============================
-🧠 [Artifical Intelligence](https://github.com/jasonsaini/Artificial-Intelligence)
-
 🛠️ Applied Software Engineering Practicum
- 
-🔀 Parallel & Distributed Computing
+📊 Advanced Statistical Methods
 
-🧮 Calculus III
 
 ⚡Top Technologies⚡
 ==================================
