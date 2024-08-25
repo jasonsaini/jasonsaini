@@ -88,4 +88,4 @@
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![](https://media1.tenor.com/m/MirqZLyqQ64AAAAd/black-myth-wukong.gif)| ![](https://media1.tenor.com/m/jysJSTSew24AAAAC/spiderverse-across-the-spiderverse.gif)
+![](https://media1.tenor.com/m/MirqZLyqQ64AAAAd/black-myth-wukong.gif)| ![](https://media1.tenor.com/m/yaDzw2am81wAAAAC/alien-romulus-logo.gif)
