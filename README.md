@@ -88,4 +88,4 @@
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![](https://news.cgtn.com/news/2024-08-24/It-s-him-The-real-actor-behind-Black-Myth-Wukong--1wkh8qr250c/img/f6f4066c85794661b7d3cfcac75acb08/f6f4066c85794661b7d3cfcac75acb08.gif)| ![](https://media1.tenor.com/m/yaDzw2am81wAAAAC/alien-romulus-logo.gif)
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExend6dG1rendraTZlMXI1MWljcWF4eThsZzR1NDd0dHgyNTUzMzR1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDsSjLSUCnPVNRiOjT/giphy.webp)| ![](https://media1.tenor.com/m/yaDzw2am81wAAAAC/alien-romulus-logo.gif)
