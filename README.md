@@ -85,4 +85,4 @@
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExend6dG1rendraTZlMXI1MWljcWF4eThsZzR1NDd0dHgyNTUzMzR1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDsSjLSUCnPVNRiOjT/giphy.webp)| ![](https://media1.tenor.com/m/yaDzw2am81wAAAAC/alien-romulus-logo.gif)
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExend6dG1rendraTZlMXI1MWljcWF4eThsZzR1NDd0dHgyNTUzMzR1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDsSjLSUCnPVNRiOjT/giphy.webp)| ![](https://media1.tenor.com/m/WvhJdGh2k5AAAAAC/smile-2-2024.gif)
