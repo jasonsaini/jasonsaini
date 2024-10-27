@@ -85,4 +85,4 @@
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExend6dG1rendraTZlMXI1MWljcWF4eThsZzR1NDd0dHgyNTUzMzR1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDsSjLSUCnPVNRiOjT/giphy.webp)| ![](https://media1.tenor.com/m/JCtbP9HnqaQAAAAd/tittle-card-smile-2.gif)
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpsZW45NGxnd2d5cG1sZmN4NDliZXV3Ymh6aXhndjFrNDBvazIyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oLMwktPEnnvXio72Ke/giphy.webp)| ![](https://media1.tenor.com/m/JCtbP9HnqaQAAAAd/tittle-card-smile-2.gif)
