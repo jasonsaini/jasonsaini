@@ -16,7 +16,7 @@
 ===============================
 🛠️ Applied Software Engineering Practicum
 
-📊 Advanced Statistical Methods
+☁️ AWS Developer Associate Certification
 
 
 ⚡Top Technologies⚡
