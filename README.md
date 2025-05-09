@@ -84,4 +84,4 @@
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![]([https://media1.tenor.com/m/UAEeGqQzVL8AAAAC/doom-doom-the-dark-ages.gif](https://media1.tenor.com/m/UAEeGqQzVL8AAAAC/doom-doom-the-dark-ages.gif))|  ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVvNXBseHNiMmk4MGNjd3FqNnpma2ZqenlkMXFkYjM1dHg5cDJhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y1qWqfAK6Hwd7HiEX2/giphy.gif)
+![]([https://media1.tenor.com/m/UAEeGqQzVL8AAAAC/doom-doom-the-dark-ages.gif](https://media1.tenor.com/m/UAEeGqQzVL8AAAAC/doom-doom-the-dark-ages.gif))|  ![]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVvNXBseHNiMmk4MGNjd3FqNnpma2ZqenlkMXFkYjM1dHg5cDJhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y1qWqfAK6Hwd7HiEX2/giphy.gif](https://64.media.tumblr.com/55c78819fa9a9214320fb357331a00ce/144ace4efefce281-db/s540x810/bfbc510b3109cd2f5269e5661766965a4c3a46d9.gif))
