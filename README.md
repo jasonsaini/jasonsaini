@@ -84,4 +84,4 @@
 
 🎮 Favorite Game 🎮            | 🎥 Favorite Movie 🎥
 :-------------------------:|:-------------------------:
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpsZW45NGxnd2d5cG1sZmN4NDliZXV3Ymh6aXhndjFrNDBvazIyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oLMwktPEnnvXio72Ke/giphy.webp)|![](https://media1.tenor.com/m/jysJSTSew24AAAAd/spiderverse-across-the-spiderverse.gif)
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpsZW45NGxnd2d5cG1sZmN4NDliZXV3Ymh6aXhndjFrNDBvazIyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oLMwktPEnnvXio72Ke/giphy.webp)|![](https://pa1.aminoapps.com/7066/2b5b403bb69837008c0ee93cfde0759eeb256c92r1-540-225_hq.gif)
